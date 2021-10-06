@@ -1,0 +1,30 @@
+.sidebar3{
+    width: 100%;
+    height: 45px;
+    background-color: #7a9bbb;
+}
+
+.sidebar3-pos ul{
+    display: flex;  
+    margin-left: 360px; 
+}
+
+.sidebar3-pos li{
+    overflow: hidden;
+    font-weight: bold;
+    color: white;
+    font-size: 13px;
+    width: 200px;
+    text-align: center;
+    
+}
+
+.sidebar3-pos li:hover {
+    background-color: #335a82;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    height: 45px;
+    
+}
+
